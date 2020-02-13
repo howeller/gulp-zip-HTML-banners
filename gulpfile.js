@@ -9,7 +9,7 @@ const merge = require('merge-stream'),
 const util = require('./lib/fsUtils');
 
 const paths = {
-	src:'./src/banners',
+	src:'./src',
 	dist:'./dist'
 }
 
