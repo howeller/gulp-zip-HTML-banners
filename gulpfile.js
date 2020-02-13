@@ -21,7 +21,7 @@ gulp.task('default', zipFiles);
 function zipFiles() {
 	let task = srcFolders.map(function(folder) {
 		let _src = path.join(paths.src, folder),// Path source files
-				_files = _src+'/*.{html,js,json}', // Package html into the _final zip
+				_files = _src+'/*.{css,html,js,json}', // Package banner files into the _final zip
 				_images = _src+'/images/**';// Path to production image files
 
 		let _final =  gulp.src([_files,_images],{base:_src})

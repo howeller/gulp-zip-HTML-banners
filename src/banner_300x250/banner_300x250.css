@@ -1,0 +1,12 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	background: #cccccc;
+}
+#wrapper {
+	width: 300px;
+	height: 250px;
+	overflow: hidden;
+	background: white;
+	position: relative;
+}
