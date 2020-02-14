@@ -1,6 +1,6 @@
 {
   "name": "banners",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp setup for zipping vanilla HTML banners for RedTrax",
   "main": "gulpfile.js",
   "dependencies": {},
