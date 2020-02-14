@@ -35,7 +35,7 @@ Each banner should go inside a folder named with it's RedTrax name. For example 
 ## Tasks
 
 **`zip`** (default)\
-Packages the published banner into a `_final.zip`
+Packages the published banner into a `_final.zip` Uncomment the code at bottom to have your project packaged into a `_source.zip`
 
 ## Usage
 
