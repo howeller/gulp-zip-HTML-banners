@@ -29,7 +29,7 @@ Your directory structure should look like this.
     └── banner_300x250
 ```
 
-Each banner should go inside a folder named with it's RedTrax name. For example `banner_300x250` will get renamed with your RedTrax banner name. Add as many banner folders as you need. Everything inside `banners` will get processed in the task.
+Each banner should go inside a folder named with it's RedTrax name. For example `banner_300x250` will get renamed with your RedTrax banner name. Add as many banner folders as you need. Everything inside `src` will get processed in the task.
 
 
 ## Tasks
